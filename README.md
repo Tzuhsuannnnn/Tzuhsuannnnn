@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there 👋  
+
+OMG This stuff is so coolllllll
+
 
 <!--
 **Tzuhsuannnnn/Tzuhsuannnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-OMG This stuff is so coolllllll
 
 Here are some ideas to get you started:
 
