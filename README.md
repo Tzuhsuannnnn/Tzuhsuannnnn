@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-#OMG This stuff is so coolllllll#
+OMG This stuff is so coolllllll
 
 
 <!--
