@@ -1,8 +1,8 @@
-#area1 {
+.one {
     background-color:black;
     color:white;
 }
-#area2 {
+.two {
     text-align:center;
     background-color:blue;
     color:#ffff00;
