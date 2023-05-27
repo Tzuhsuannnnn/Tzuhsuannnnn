@@ -2,7 +2,7 @@
 
 OMG This stuff is so coolllllll
 
-[link text]()
+[click me](index.html)
 
 <!--
 **Tzuhsuannnnn/Tzuhsuannnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
