@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-OMG This stuff is so coolllllll
+student in NCU, Taiwan majoring in informaton management.
 
 [click me](index.html)
   
