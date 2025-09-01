@@ -1,10 +1,8 @@
 ### Hi there 👋  
 
-student in NCU, Taiwan majoring in informaton management.
+student in NTU, Taiwan majoring in informaton management.
 
-[click me](index.html)
-  
-[click here](https://tzuhsuannnnn.github.io/Tzuhsuannnnn/)
+
 <!--
 **Tzuhsuannnnn/Tzuhsuannnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
